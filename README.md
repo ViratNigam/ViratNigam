@@ -8,4 +8,5 @@
 ### Connect with me:
 GitHub -[Virat Nigam](https://github.com/ViratNigam),
 Twitter -[@Virat09607245](https://twitter.com/Virat09607245) ,
+Linkedln -[Virat Nigam](https://www.linkedin.com/in/virat-nigam-0682b2220/),
 Instagram - [@virat_nigam_18](https://instagram.com/virat_nigam_18?utm_medium=copy_link)
