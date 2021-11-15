@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Virat Nigam</h1>
-- 🔭 I’m currently working on ****MERN STACK****
+- 🔭 I’m currently working on MERN STACK
 
 - 🌱 I’m currently learning **HTML ,CSS , JavaScript, React.JS , Node.JS , Express , MongoDB & Socket.io**
 
-- 👯 I’m looking to collaborate on ****Open Source****
+- 👯 I’m looking to collaborate on Open Source
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViratNigam](https://github.com/ViratNigam)
 
