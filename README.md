@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ViratNigam](https://github.com/ViratNigam)
+- 👨‍💻 All of my projects are available at [https://github.com/ViratNigam?tab=repositories](https://github.com/ViratNigam?tab=repositories)
 
 - 💬 Ask me about **Web Development || MERN STACK**
 
