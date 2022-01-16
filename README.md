@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viratnigam&show_icons=true&locale=en" alt="viratnigam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viratnigam&" alt="viratnigam" /></p>
+<h3 align="left">Google IT Support Certificate</h3>
+![Google IT Support Certificate](https://user-images.githubusercontent.com/87934158/149665052-bd852768-c804-4172-95bc-aec2dea60ea5.png)
