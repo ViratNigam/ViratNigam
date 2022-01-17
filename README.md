@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/virat09607245" target="blank"><img src="https://img.shields.io/twitter/follow/virat09607245?logo=twitter&style=for-the-badge" alt="virat09607245" /></a> </p>
 
-- 🔭 I’m currently working on **React Native & React Redux**
+- 🔭 I’m currently working on **React Native**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
