@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViratNigam](https://github.com/ViratNigam)
 
-- 💬 Ask me about **Web Development || React.Js App || MERN STACK**
+- 💬 Ask me about **Web Development || MERN STACK**
 
 - 📫 How to reach me **viratnigam2003@gmail.com**
 
