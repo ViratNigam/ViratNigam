@@ -18,7 +18,7 @@
 <a href="https://instagram.com/virat_nigam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virat_nigam_18" height="30" width="40" /></a>
 </p>
 <h3 align="left">Google IT Support Certificate</h3>
-# Technical Support Fundamentals by Google
+<h5 align="center">Technical Support Fundamentals by Google</h5>
 <img align="center" src="https://user-images.githubusercontent.com/87934158/149665052-bd852768-c804-4172-95bc-aec2dea60ea5.png" alt="viratnigam" />
 
 <h3 align="left">Languages and Tools:</h3>
