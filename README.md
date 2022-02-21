@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Virat Nigam</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viratnigam&label=Profile%20views&color=0e75b6&style=flat" alt="viratnigam" /> </p>
 
 - 🔭 I’m currently working on **React Native**
+
+- 📙 I’m currently Learning **DSA in JavaScript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
