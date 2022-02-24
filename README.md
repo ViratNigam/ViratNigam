@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" />, I'm Virat Nigam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="125px"/>, I'm Virat Nigam</h1>
 
 - 🔭 I’m currently working on **React Native**
 
