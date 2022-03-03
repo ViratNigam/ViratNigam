@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 📙 I’m currently Learning **DSA in JavaScript**
+- 📙 I’m currently Learning **Swift**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
