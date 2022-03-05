@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virat Nigam</h1>
 <h3 align="center">MERN STACK , Swift Developer & IT Support Specialist from India.</h3>
 
-
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viratnigam" alt="viratnigam" /></a> </p>
 
