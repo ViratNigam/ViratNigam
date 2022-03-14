@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I'm Virat Nigam</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" rel="nofollow">Virat Nigam</a>
+ </h1>
 <h3 align="center">MERN STACK , Swift Developer & IT Support Specialist from India.</h3>
 
 <hr>
