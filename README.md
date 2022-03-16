@@ -32,6 +32,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/87934158/149665052-bd852768-c804-4172-95bc-aec2dea60ea5.png" alt="viratnigam"/>
 <h4 align="left">The Bits and Bytes of Computer Networking</h4>
 <img align="center" src="https://user-images.githubusercontent.com/87934158/154963172-00cb18c9-977a-4f8f-a11e-46c16f5797b9.png" alt="viratnigam"/>
+ 
+ <h4 align="left">Operating Systems and You Becoming a Power User</h4>
+<img align="center" src=" https://user-images.githubusercontent.com/87934158/158585566-ba9e4251-bdae-46a9-8196-85272e775460.png" alt="viratnigam"/>
+ 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
