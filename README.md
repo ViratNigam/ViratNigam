@@ -32,8 +32,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/87934158/149665052-bd852768-c804-4172-95bc-aec2dea60ea5.png" alt="viratnigam"/>
 <h4 align="left">The Bits and Bytes of Computer Networking</h4>
 <img align="center" src="https://user-images.githubusercontent.com/87934158/154963172-00cb18c9-977a-4f8f-a11e-46c16f5797b9.png" alt="viratnigam"/>
-  <h4 align="left">Operating Systems and You Becoming a Power User</h4>
+<h4 align="left">Operating Systems and You Becoming a Power User</h4>
 <img align="center" src="https://user-images.githubusercontent.com/87934158/158586060-b222f4fc-e51c-46bd-9861-d2dc78ec2ba8.png" alt="viratnigam"/>
+<h4 align="left">System Administration and IT Infrastructure Services</h4>
+ <img align="center" src=https://user-images.githubusercontent.com/87934158/159121192-2fc0b090-4685-48d5-ad55-b01c2378c01c.jpg" alt="viratnigam"/>
  
 
 
