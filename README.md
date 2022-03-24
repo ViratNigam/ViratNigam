@@ -36,6 +36,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/87934158/158586060-b222f4fc-e51c-46bd-9861-d2dc78ec2ba8.png" alt="viratnigam"/>
 <h4 align="left">System Administration and IT Infrastructure Services</h4>
  <img align="center" src="https://user-images.githubusercontent.com/87934158/159121192-2fc0b090-4685-48d5-ad55-b01c2378c01c.jpg" alt="viratnigam"/>
+ <h4 align="left">IT Security: Defense against the digital dark arts .</h4>
+  <img align="center" src="https://user-images.githubusercontent.com/87934158/159902253-d7f23e73-5af3-4a19-a576-1a2c40f270f6.jpg" alt="viratnigam"/>
+ 
  
 
 
