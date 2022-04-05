@@ -30,6 +30,8 @@
 </p>
 
 <h3 align="left">Google IT Support Professional Certificate</h3>
+ <img align="center" src=" https://user-images.githubusercontent.com/87934158/161771253-4dba0df5-3fd3-46f7-a022-e5224e7fe072.gif" alt="viratnigam"/>
+
 <h4 align="left">Technical Support Fundamentals by Google</h4>
 <img align="center" src="https://user-images.githubusercontent.com/87934158/149665052-bd852768-c804-4172-95bc-aec2dea60ea5.png" alt="viratnigam"/>
 <h4 align="left">The Bits and Bytes of Computer Networking</h4>
