@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
  </h1>
-<h3 align="center">MERN STACK , Swift Developer & Google IT Support Specialist from India.</h3>
+<h3 align="center">Full Stack , Swift Developer & Google IT Support Specialist from India.</h3>
 
 <hr>
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Web Development, MERN STACK**
+- 💬 Ask me about **Web Development, Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViratNigam](https://github.com/ViratNigam)
 
