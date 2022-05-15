@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/virat09607245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virat09607245" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/virat-nigam-0682b2220/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/virat_nigam_1807/?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/virat_nigam_1807/?utm_medium=copy_link" height="30" width="40" /></a>
+<a href="https://www.instagram.com/virat_nigam_1807/?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/virat_nigam_18/?utm_medium=copy_link" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Google IT Support Professional Certificate</h3>
