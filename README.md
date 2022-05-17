@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Web Development, Full Stack**
+- 💬 Ask me about **Web Development, Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViratNigam](https://github.com/ViratNigam)
 
