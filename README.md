@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" >, I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
  </h1>
 
 <h3 align="center">Full Stack Developer , Swift Developer & Google IT Support Specialist from India.</h3>
