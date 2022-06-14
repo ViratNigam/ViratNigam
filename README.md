@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋‍♂️ I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
+<h1 align="center">Hi 👋 I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
  </h1>
 
 <h3 align="center">Full Stack Developer , Swift Developer & Google IT Support Specialist from India.</h3>
