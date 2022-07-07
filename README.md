@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viratnigam" alt="viratnigam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/virat_nigam_18" target="blank"><img src="https://img.shields.io/twitter/follow/virat09607245?logo=twitter&style=for-the-badge" alt="virat_nigam_18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/virat_nigam_18" target="blank"><img src="https://img.shields.io/twitter/follow/virat_nigam_18?logo=twitter&style=for-the-badge" alt="virat_nigam_18" /></a> </p>
 
  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 100%;">
  
