@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm <a href="https://www.linkedin.com/in/virat-nigam-0682b2220/" target="_blank rel="nofollow">Virat Nigam</a>
  </h1>
 
-<h3 align="center">Full Stack Developer , Swift Developer & Google IT Support Specialist from India.</h3>
+<h3 align="center">Full Stack Developer  & Google IT Support Specialist from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viratnigam" alt="viratnigam" /></a> </p>
 
